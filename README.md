@@ -10,9 +10,8 @@
 
 <h3 align="center">📫 How to reach me</h3>
 <p align="center">
-  <a><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&mailto:6513032@gmail.com"/></a>
+  <a href="mailto:6513032@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&mailto:6513032@gmail.com"/></a>
 </p>
-
 <br>
 
 
